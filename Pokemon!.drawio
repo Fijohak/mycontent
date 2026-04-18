@@ -1,23 +1,110 @@
 <mxfile host="app.diagrams.net" pages="2">
   <diagram name="第 1 页" id="LDSyRYXB8MNFeygw57Ul">
-    <mxGraphModel dx="1534" dy="904" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1934" dy="904" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="Tfh7OL0o73zZNj5pjxrN-1" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Pokemon_official" vertex="1">
-          <mxGeometry height="30" width="60" x="110" y="90" as="geometry" />
+          <mxGeometry height="30" width="60" x="-240" y="130" as="geometry" />
         </mxCell>
-        <mxCell id="Tfh7OL0o73zZNj5pjxrN-2" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=4" value="id" vertex="1">
+        <mxCell id="Tfh7OL0o73zZNj5pjxrN-2" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=0" value="pokemon_official" vertex="1">
           <mxGeometry height="60" width="120" x="240" y="260" as="geometry" />
+        </mxCell>
+        <mxCell id="pjBEX4hLD4lcdTXAquo6-2" parent="1" style="ellipse;whiteSpace=wrap;html=1;fontStyle=4" value="id" vertex="1">
+          <mxGeometry height="80" width="120" x="-120" y="250" as="geometry" />
+        </mxCell>
+        <mxCell id="pjBEX4hLD4lcdTXAquo6-3" parent="1" style="ellipse;whiteSpace=wrap;html=1;" value="name" vertex="1">
+          <mxGeometry height="80" width="120" x="-120" y="150" as="geometry" />
+        </mxCell>
+        <mxCell id="pjBEX4hLD4lcdTXAquo6-4" parent="1" style="ellipse;whiteSpace=wrap;html=1;" value="type_1" vertex="1">
+          <mxGeometry height="80" width="120" x="-120" y="520" as="geometry" />
+        </mxCell>
+        <mxCell id="pjBEX4hLD4lcdTXAquo6-5" parent="1" style="ellipse;whiteSpace=wrap;html=1;" value="type_2" vertex="1">
+          <mxGeometry height="80" width="120" x="-120" y="630" as="geometry" />
+        </mxCell>
+        <mxCell id="pjBEX4hLD4lcdTXAquo6-6" parent="1" style="ellipse;whiteSpace=wrap;html=1;" value="hp" vertex="1">
+          <mxGeometry height="80" width="120" x="100" y="410" as="geometry" />
+        </mxCell>
+        <mxCell id="pjBEX4hLD4lcdTXAquo6-7" parent="1" style="ellipse;whiteSpace=wrap;html=1;" value="attack" vertex="1">
+          <mxGeometry height="80" width="120" x="100" y="530" as="geometry" />
+        </mxCell>
+        <mxCell id="pjBEX4hLD4lcdTXAquo6-8" parent="1" style="ellipse;whiteSpace=wrap;html=1;" value="defense" vertex="1">
+          <mxGeometry height="80" width="120" x="100" y="640" as="geometry" />
+        </mxCell>
+        <mxCell id="pjBEX4hLD4lcdTXAquo6-9" parent="1" style="ellipse;whiteSpace=wrap;html=1;" value="sp_attack" vertex="1">
+          <mxGeometry height="80" width="120" x="360" y="410" as="geometry" />
+        </mxCell>
+        <mxCell id="pjBEX4hLD4lcdTXAquo6-10" parent="1" style="ellipse;whiteSpace=wrap;html=1;" value="sp_defense" vertex="1">
+          <mxGeometry height="80" width="120" x="360" y="520" as="geometry" />
+        </mxCell>
+        <mxCell id="pjBEX4hLD4lcdTXAquo6-11" parent="1" style="ellipse;whiteSpace=wrap;html=1;" value="speed" vertex="1">
+          <mxGeometry height="80" width="120" x="100" y="750" as="geometry" />
+        </mxCell>
+        <mxCell id="pjBEX4hLD4lcdTXAquo6-12" parent="1" style="ellipse;whiteSpace=wrap;html=1;" value="total" vertex="1">
+          <mxGeometry height="80" width="120" x="360" y="630" as="geometry" />
+        </mxCell>
+        <mxCell id="pjBEX4hLD4lcdTXAquo6-13" parent="1" style="ellipse;whiteSpace=wrap;html=1;" value="generation" vertex="1">
+          <mxGeometry height="80" width="120" x="360" y="740" as="geometry" />
+        </mxCell>
+        <mxCell id="pjBEX4hLD4lcdTXAquo6-14" parent="1" style="ellipse;whiteSpace=wrap;html=1;" value="is_legendary" vertex="1">
+          <mxGeometry height="80" width="120" x="550" y="410" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
   <diagram id="I9ZH1liCylC0HVIib1ia" name="第 2 页">
-    <mxGraphModel dx="1534" dy="904" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1934" dy="1304" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="v4PS9E9c31PIB0FIAat9-1" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontSize=16;" value="user_pokemon" vertex="1">
+          <mxGeometry height="30" width="60" x="-240" y="-130" as="geometry" />
+        </mxCell>
+        <mxCell id="tgJQ8zi2ovyMLUipEQ-g-1" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="pokemon_user_created" vertex="1">
+          <mxGeometry height="60" width="150" x="240" as="geometry" />
+        </mxCell>
+        <mxCell id="tgJQ8zi2ovyMLUipEQ-g-2" parent="1" style="ellipse;whiteSpace=wrap;html=1;fontStyle=4" value="record_id" vertex="1">
+          <mxGeometry height="80" width="120" x="-110" y="-10" as="geometry" />
+        </mxCell>
+        <mxCell id="tgJQ8zi2ovyMLUipEQ-g-3" parent="1" style="ellipse;whiteSpace=wrap;html=1;" value="custom_name" vertex="1">
+          <mxGeometry height="80" width="120" x="-110" y="120" as="geometry" />
+        </mxCell>
+        <mxCell id="4IGjEL7AdFcDPCsKteVH-3" parent="1" style="ellipse;whiteSpace=wrap;html=1;" value="hp" vertex="1">
+          <mxGeometry height="80" width="120" x="110" y="130" as="geometry" />
+        </mxCell>
+        <mxCell id="4IGjEL7AdFcDPCsKteVH-4" parent="1" style="ellipse;whiteSpace=wrap;html=1;" value="attack" vertex="1">
+          <mxGeometry height="80" width="120" x="110" y="250" as="geometry" />
+        </mxCell>
+        <mxCell id="4IGjEL7AdFcDPCsKteVH-5" parent="1" style="ellipse;whiteSpace=wrap;html=1;" value="defense" vertex="1">
+          <mxGeometry height="80" width="120" x="110" y="360" as="geometry" />
+        </mxCell>
+        <mxCell id="4IGjEL7AdFcDPCsKteVH-6" parent="1" style="ellipse;whiteSpace=wrap;html=1;" value="sp_attack" vertex="1">
+          <mxGeometry height="80" width="120" x="370" y="130" as="geometry" />
+        </mxCell>
+        <mxCell id="4IGjEL7AdFcDPCsKteVH-7" parent="1" style="ellipse;whiteSpace=wrap;html=1;" value="sp_defense" vertex="1">
+          <mxGeometry height="80" width="120" x="370" y="240" as="geometry" />
+        </mxCell>
+        <mxCell id="4IGjEL7AdFcDPCsKteVH-8" parent="1" style="ellipse;whiteSpace=wrap;html=1;" value="speed" vertex="1">
+          <mxGeometry height="80" width="120" x="110" y="470" as="geometry" />
+        </mxCell>
+        <mxCell id="4IGjEL7AdFcDPCsKteVH-9" parent="1" style="ellipse;whiteSpace=wrap;html=1;" value="total" vertex="1">
+          <mxGeometry height="80" width="120" x="370" y="350" as="geometry" />
+        </mxCell>
+        <mxCell id="4IGjEL7AdFcDPCsKteVH-10" parent="1" style="ellipse;whiteSpace=wrap;html=1;" value="generation" vertex="1">
+          <mxGeometry height="80" width="120" x="370" y="460" as="geometry" />
+        </mxCell>
+        <mxCell id="4IGjEL7AdFcDPCsKteVH-11" parent="1" style="ellipse;whiteSpace=wrap;html=1;" value="is_legendary" vertex="1">
+          <mxGeometry height="80" width="120" x="560" y="130" as="geometry" />
+        </mxCell>
+        <mxCell id="4IGjEL7AdFcDPCsKteVH-12" parent="1" style="ellipse;whiteSpace=wrap;html=1;" value="battle_role" vertex="1">
+          <mxGeometry height="80" width="120" x="-110" y="270" as="geometry" />
+        </mxCell>
+        <mxCell id="4IGjEL7AdFcDPCsKteVH-13" parent="1" style="ellipse;whiteSpace=wrap;html=1;" value="rank" vertex="1">
+          <mxGeometry height="80" width="120" x="-110" y="390" as="geometry" />
+        </mxCell>
+        <mxCell id="4IGjEL7AdFcDPCsKteVH-14" parent="1" style="ellipse;whiteSpace=wrap;html=1;" value="create_time" vertex="1">
+          <mxGeometry height="80" width="120" x="-110" y="500" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
